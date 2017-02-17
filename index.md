@@ -6,4 +6,4 @@
 
 ## Fascinator
 
-Forks created from https://sites.google.com/site/fascinatorhome/ and related plugins. The forks added functionality to allow greater integration with authorisation and authentication systems (namely LDAP role lookup and CAS single sign-on) and extended the CSV data import function.
+Forks created for https://sites.google.com/site/fascinatorhome/ and related plugins. The forks added functionality to allow greater integration with authorisation and authentication systems (namely LDAP role lookup and CAS single sign-on) and extended the CSV data import function.
