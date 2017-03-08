@@ -11,4 +11,4 @@ Javadoc documentation is located [here](https://innodev-au.github.io/wmboost-dat
 Forks created from [The Fascinator](https://sites.google.com/site/fascinatorhome/) and related plugins. The forks added functionality to allow greater integration with authorisation and authentication systems (namely LDAP role lookup and CAS single sign-on) and extended the CSV data import function. The added integration functionality was accepted and merged back into the main product.
 
 ## Company Site
-[innodev.com.au/](http://innodev.com.au/)
+[innodev.com.au/](http://innodev.com.au)
