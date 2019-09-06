@@ -1,5 +1,8 @@
 # Innodev's Open Source Repositories
 
+## innodev-appianfunctions-markupgen
+[HTML/XML Markup Generation]https://github.com/innodev-au/innodev-appianfunctions-markupgen is an Appian plugin for generation of  content with properly-escaped characters. It can be used to produce HTML email content, XML to be fed into plugins or services, etc.
+
 ## wmboost-data
 
 [wmboost-data](https://github.com/innodev-au/wmboost-data) is a free and open source Java library that makes it easier to access and manipulate documents in webMethods compared to coding directly with out-of-the-box classes like IData and IDataUtil. It can be used for either server or client-side code.
